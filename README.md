@@ -16,7 +16,7 @@ git clone https://github.com pazorrro/Massiv_Instagram_Message
 
 ## Go to the repertory :
 ```bash
-cd Download Massiv_Instagram_Message
+cd Massiv_Instagram_Message
 ```
 <br>
 
