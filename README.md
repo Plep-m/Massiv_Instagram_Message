@@ -5,6 +5,7 @@
 ## Intall modules :
 ```bash
 pip install selenium
+pip install webdriver-manager
 ```
 <br>
 
@@ -60,12 +61,3 @@ the program, all is explain.
 <br><br>
 
 # ENJOY
-
-
-
-
-
-
-
-
-
