@@ -10,7 +10,7 @@ pip3 install selenium
 
 ## Download Massiv_Instagram_Message :
 ```bash
-git clone https://github.com pazorrro/Massiv_Instagram_Message
+git clone https://github.com/pazorrro/Massiv_Instagram_Message.git
 ```
 <br>
 
