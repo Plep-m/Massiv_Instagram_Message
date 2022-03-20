@@ -4,7 +4,7 @@
 
 ## Intall modules :
 ```bash
-pip3 install selenium
+pip install selenium
 ```
 <br>
 
