@@ -5,7 +5,6 @@
 ## Intall modules :
 ```bash
 pip3 install selenium
-pip install selenium.common.exceptions.WebDriverException
 ```
 <br>
 
