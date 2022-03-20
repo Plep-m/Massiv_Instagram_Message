@@ -60,8 +60,8 @@ that can slow down your browser
 
 ## Problems
 ```bash
-if you have problems, modify
-the program, all is explain.
+if you have any problems, modify
+the program, everythings is explained.
 ```
 
 <br><br>
