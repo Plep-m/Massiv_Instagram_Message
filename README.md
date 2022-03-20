@@ -9,6 +9,12 @@ pip install webdriver-manager
 ```
 <br>
 
+## Intall chromium :
+```bash
+sudo apt install chromium-browser
+```
+<br>
+
 ## Download Massiv_Instagram_Message :
 ```bash
 git clone https://github.com/pazorrro/Massiv_Instagram_Message.git
