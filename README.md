@@ -1,61 +1,71 @@
-#I - installation 
+# I - installation
 
+<br><br>
 
-##Intall modules :
+## Intall modules :
 ```bash
 pip3 install selenium
 ```
+<br>
 
-##Download Massiv_Instagram_Message :
+## Download Massiv_Instagram_Message :
 ```bash
-sudo 
+git clone https://github.com pazorrro/Massiv_Instagram_Message
+```
+<br>
+
+## Go to the repertory :
+```bash
+cd Download Massiv_Instagram_Message
+```
+<br>
+
+## Upload usernames accounts :
+```bash
+copy all the usernames to send the message to in "users.txt" (like a list) .
+! You msut follow tem !
 ```
 
+<br><br>
 
+# Usage :
 
+<br><br>
 
-# Usage:
-
-## BruteForce Gmail Attack
-```bash
-python3 Brute_Force.py -g Account@gmail.com -l File_list
-
-python3 Brute_Force.py -g Account@gmail.com -p Password_Single
-```
-
-
-## BruteForce Hotmail Attack
-```bash
-python3 Brute_Force.py -t Account@hotmail.com -l File_list
-
-python3 Brute_Force.py -t Account@hotmail.com -p Password_Single
-```
-
-
-## BruteForce Twitter Attack
+## run the python program
 
 ```bash
-python3 Brute_Force.py -T Account_Twitter -l File_list
-python3 Brute_Force.py -T Account_Twitter -l File_list -X proxy-list.txt
-
+python Massiv_Instagram_Message.py
 ```
-## BruteForce Facebook Attack
+<br>
+
+## Just follow the instructions
 
 ```bash
-python3 Brute_Force.py -f Account_facebook -l File_list
-python3 Brute_Force.py -f Account_facebook -l File_list -X proxy-list.txt
+1- enter your username account
+2- enter your passworld account
+3- say if you use a vpn or something
+that can slow down your browser
+4- enter the message to send
 ```
-## BruteForce Netflix Attack
 
+<br>
+
+## Problems
 ```bash
-يفضل تشغيل VPN
-Start On Vpn
-python3 Brute_Force.py -n Account_Netflix -l File_list
-python3 Brute_Force.py -n Account_Netflix -l File_list -X proxy-list.txt
-
-
-وترقبووو المزيد 
+if you have problems, modifiy
+the program, all is explain.
 ```
+
+<br><br>
+
+# ENJOY
+
+
+
+
+
+
 
 
 
